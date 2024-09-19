@@ -8,11 +8,11 @@
 
 ## Web App Home Page
 
-![Web App Screenshot](link-to-your-image)
+<img align="center" src="./src/assets/App SS.png">
 
 ## Web App Link
 
-[React Weather App](https://your-web-app-link)
+[React Weather App](https://dhruv06122002.github.io/React-weather-app/)
 
 ## Usage
 

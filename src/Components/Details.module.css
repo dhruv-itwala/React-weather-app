@@ -1,0 +1,23 @@
+.name{
+  color: #f0f0f0;
+  text-align: center;
+}
+
+h1{
+  color: #f0f0f0;
+  padding: 10px;
+  margin: 25px 10px;
+}
+.details h2{
+  color: #f0f0f0;
+  padding: 10px;
+  margin: 25px 10px;
+}
+
+
+.details{
+  color: #f0f0f0;
+  padding: 10px;
+  margin-left: 200px;
+  text-align: justify;
+}
