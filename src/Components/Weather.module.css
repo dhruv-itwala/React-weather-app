@@ -1,8 +1,9 @@
 .weather{
   place-self: center;
   padding: 40px;
-  border-radius: 10px;
-  background-image: linear-gradient(45deg,#2f4680,#500ae4);
+  border: 1px solid #E0E0E0;
+  border-radius: 25px;
+  background-image: #1E1E1E;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,8 +21,8 @@
   outline: none;
   border-radius: 40px;
   padding-left: 25px;
-  color: #626262;
-  background: #ebfffc;
+  color: #E0E0E0 ;
+  background: #333333;
   font-size: 18px;
 }
 
@@ -29,7 +30,7 @@
   width: 50px;
   padding: 15px;
   border-radius: 50%;
-  background: #ebfffc;
+  background: #03DAC5;
   cursor: pointer;
 }
 
@@ -39,20 +40,20 @@
 }
 
 .temperature{
-  color: #ffffff;
+  color: #BB86FC;
   font-size: 80px;
   line-height: 1;
 }
 
 .location{
-  color: #ffffff;
+  color: #E0E0E0;
   font-size: 40px;
 }
 
 .weatherData{
 width: 100%;
 margin-top: 40px;
-color: #fff;
+color: #B0B0B0;
 display: flex;
 justify-content: space-between;
 }
@@ -72,4 +73,5 @@ font-size: 22px;
 .weatherData .col img{
 width: 26px;
 margin-top: 10px;
+background-image: #1F4E79 ;
 }
