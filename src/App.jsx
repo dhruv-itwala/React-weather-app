@@ -6,7 +6,6 @@ import Details from "./Components/Details";
 const App = () => {
   return (
     <div className="app">
-      <AppName />
       {/*       <div style={{ display: "flex", alignItems: "flex-start" }}>
         <div style={{ flex: 0.5 }}></div>
         <div style={{}}> */}
