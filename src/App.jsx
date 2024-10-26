@@ -7,11 +7,11 @@ const App = () => {
   return (
     <div className="app">
       <AppName />
-      <div style={{ display: "flex", alignItems: "flex-start" }}>
+{/*       <div style={{ display: "flex", alignItems: "flex-start" }}>
         <div style={{ flex: 0.5 }}></div>
-        <div style={{}}>
+        <div style={{}}> */}
           <Weather />
-        </div>
+{/*         </div>
         <div style={{ flex: 1.5, marginLeft: "0px" }}>
           <Details />
         </div>
@@ -19,7 +19,7 @@ const App = () => {
       </div>
       <h1 style={{ color: "#f0f0f0", textAlign: "center" }}>Thank you.</h1>
     </div>
-  );
+  ); */}
 };
 
 export default App;
